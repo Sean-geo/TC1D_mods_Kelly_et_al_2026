@@ -1,4 +1,4 @@
-These are modified versions of Tc1D developed by Dave whipp.
+These are modified versions of Tc1D developed by David whipp.
 
 specific comments related to these modifications are found in the comment header of the tc1d_cli files.
 
